@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=150&section=header&text=SMOKEx2&fontSize=50&fontAlignY=38&desc=Auto%20Bot%20Developer&descAlignY=60&descAlign=62&fontColor=ffffff" />
 
-<h1 align="center">Hi there, I'm SMOKEx2 👋</h1>
+<h1 align="center">Hi there, I'm RoxyZ 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Auto+Bot+Developer;JavaScript+%2F+Python+Dev;Hacker+Mindset" alt="Typing SVG" />
