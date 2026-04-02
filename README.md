@@ -26,10 +26,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/SMOKEx2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SMOKEx2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/SMOKEx2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMOKEx2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SMOKEx2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMOKEx2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
 </p>
