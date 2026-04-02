@@ -28,15 +28,6 @@
 
 <p align="center">
   <a href="https://github.com/SMOKEx2">
-    <img src="https://github-readme-stats.vercel.app/api?username=SMOKEx2&show_icons=true&theme=tokyonight&hide_border=true" alt="SMOKEx2 GitHub Stats" />
-  </a>
-  <a href="https://github.com/SMOKEx2">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMOKEx2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/SMOKEx2">
     <img src="https://streak-stats.demolab.com/?user=SMOKEx2&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
